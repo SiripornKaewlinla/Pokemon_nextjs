@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5; /* สีพื้นหลังที่เรียบง่าย */
+  background-image: url('https://wallpaperset.com/w/full/f/4/a/107424.jpg'); /* รูปภาพพื้นหลัง */
+  background-size: cover; /* ปรับให้รูปภาพคลุมเต็มหน้าจอ */
+  background-position: left top; /* จัดรูปภาพไปด้านซ้ายบน */
+  background-repeat: no-repeat; /* ไม่ทำซ้ำรูปภาพ */
+}
